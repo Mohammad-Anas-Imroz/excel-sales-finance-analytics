@@ -9,7 +9,7 @@
 
 ## Overview
 
-This project builds a two-part analytics suite — a **Sales Report** and a **Finance Report** — designed to surface actionable insights from raw business data. Each report targets a specific decision-making layer: operational sales performance and strategic financial planning.
+This project builds a two-part analytics suite  (a **Sales Report** and a **Finance Report**) designed to surface actionable insights from raw business data. Each report targets a specific decision-making layer: operational sales performance and strategic financial planning.
 
 ---
 
