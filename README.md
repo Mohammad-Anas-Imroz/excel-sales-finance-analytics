@@ -65,7 +65,6 @@ This project builds a two-part analytics suite — a **Sales Report** and a **Fi
 
 | File | Category | Description |
 |------|----------|-------------|
-| [Report_Cover_Page](Report_Cover_Page.pdf) | General | Project overview and introduction |
 | [Sales_Division_Performance_Report](Sales_Division_Performance_Report.pdf) | Sales | Performance breakdown by division |
 | [Sales_New_Product_Launch_2021](Sales_New_Product_Launch_2021.pdf) | Sales | New product revenue analysis for 2021 |
 | [Sales_Top10_Product_Performance](Sales_Top10_Product_Performance.pdf) | Sales | Top 10 products by sales volume |
